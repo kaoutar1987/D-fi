@@ -1,0 +1,38 @@
+
+header{
+    background-image: url('fond_ecran.jpg');
+    background-position: center;
+    background-size: 200em;
+    font-size: 1em;
+    text-align: right;
+    padding: 2%;
+    height: 300px;
+    
+}
+
+img{
+width: 80px;
+height:80px;
+border: 3px solid rgb(129, 136, 236);
+}
+.img form{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+button{
+    border-radius: 10px 10px 10px 10px;
+}
+section{
+    margin-top: 50px;
+    text-align: left;
+    font-size: 1em;
+}
+table, th, td {
+    border: 1px solid;
+  }
+
+
+
+
+    
